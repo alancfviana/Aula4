@@ -1,0 +1,10 @@
+Arquivo com as tags 
+# Tags semanticas html 5 
+- header: Usado para indicar cabecalho/topo 
+- main: Usado para indicar conteudo principal da pagina
+- footer: Usado para indicar rodape/baixo da pagina
+- section: Fazer divisoes dentro da main
+- conteudo independente da main ou pagina, geralmente como um post de um blog- article: Co
+- aside: Usado para indicar que se trata de um conteudo lateral  
+- nav: Usado para representar navegacao com links (menu) 
+- figure: conteudo como imagem ou video
